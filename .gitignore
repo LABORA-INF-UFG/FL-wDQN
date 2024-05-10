@@ -1,0 +1,7 @@
+*.pyc
+*.xml
+*ssh_key*
+*checkpoints*
+__pycache__/
+.idea/*
+temp/
